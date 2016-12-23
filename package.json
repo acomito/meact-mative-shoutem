@@ -10,6 +10,8 @@
     "@shoutem/ui": "^0.10.2",
     "react": "15.4.1",
     "react-native": "0.39.2",
+    "react-native-keyboard-spacer": "^0.3.1",
+    "react-native-meteor": "^1.0.3",
     "react-native-router-flux": "^3.37.0"
   },
   "devDependencies": {
